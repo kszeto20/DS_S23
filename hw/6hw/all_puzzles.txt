@@ -1,0 +1,109 @@
+3 2
++ cat
++ one
+
+8 - solutions
+
+3 2
++ cat
++ one
+- to
+
+4 - solutions
+
+4 4
++ arts
++ arid
++ east
++ rest
+- ear
+- at
+- sit
+
+8 - solutions
+
+5 3
++ echo
++ baker
++ apt
++ toe
++ ore
++ eat
++ cap
+
+4 - solutions
+
+5 3
++ yeti 
++ karma
++ squid
+- sky
+- red
+- ski
+- me
+- at
+- rut
+- is
+- yum
+
+100 - solutions
+
+3 3
++ ale
++ oat
++ zed
++ old
++ zoo
+
+208 - solutions
+
+5 3
++ tenet
++ alula
++ tat
++ nun
+- ale
+- an
+- tent
+- tnt
+- aa
+- ee
+- ll
+- au
+- b
+- c
+- d
+- f
+- g
+- h
+- i
+- j
+- k
+- m
+- o
+- p
+- q
+- r
+- s
+- v
+- w
+- x
+- y
+- z
+
+1 - solution
+
+7 5
++ avocado
++ magnet
++ cedar
++ robin
++ chaos
++ buffalo
++ trade
++ lad
++ fun
+- ace
+- coat
+
+4 - solutions
